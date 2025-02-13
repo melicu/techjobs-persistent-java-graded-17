@@ -37,3 +37,4 @@ public class Skill extends AbstractEntity {
 
     public Skill() {}
 }
+
